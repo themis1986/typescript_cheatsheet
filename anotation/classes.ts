@@ -27,7 +27,7 @@ console.log(employee.age);
 // employee.startShift();
 // employee.endShift();
 
-const mechanic = new Mechanic(29);
+const mechanic = new Mechanic("Teo", 29);
 // mechanic.startShift();
 // mechanic.endShift();
 mechanic.goToWork();
